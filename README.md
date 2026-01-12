@@ -20,8 +20,9 @@ Easy to integrate, smooth animations, and suitable for real-world production app
 ## 📸 Preview
 
 <p float="left">
-  <img src="screenshots/ss1.jpg" width="1080" alt="first image"/>
-  <img src="screenshots/ss2.jpg" width="1080" alt="second image"/>
+  <img src="AutoImageSlider.gif" width="250" alt="first image"/>
+  <img src="screenshots/ss1.jpg" width="250" alt="first image"/>
+  <img src="screenshots/ss2.jpg" width="250" alt="second image"/>
 </p>
 
 ---
