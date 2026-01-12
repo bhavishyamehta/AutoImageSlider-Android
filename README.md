@@ -80,7 +80,7 @@ It really helps and motivates future improvements 😊
 
 
 ## 👤 Author
-Bhavishya Mehta 
+Bhavishya Mehta
 - Android Developer | Kotlin Enthusiast
 
 ---
